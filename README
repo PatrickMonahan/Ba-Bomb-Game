@@ -1,1 +1,3 @@
-Hello GAME PROJEEEECT
+This game was created as part of my final year graphics course. The game idea is based on minesweeper but in 3d. I used some images from supermario 64 to give it a nice nintendo feel. The game is built in c++ using openGL with freeglut.
+
+Please read GameProject.pdf for screenshots and more info.
